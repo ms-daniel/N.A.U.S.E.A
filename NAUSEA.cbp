@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="first nave" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/first nave" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/first nave" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="funções/animations.cpp" />
+		<Unit filename="funções/arquivos.cpp" />
+		<Unit filename="funções/calculaDistancia.cpp" />
+		<Unit filename="funções/calculaGas.cpp" />
+		<Unit filename="funções/gasRecursivo.cpp" />
+		<Unit filename="funções/mineracao.cpp" />
+		<Unit filename="funções/ocultar_cursor.cpp" />
+		<Unit filename="funções/pintaMenu.cpp" />
+		<Unit filename="funções/pintaTudo.cpp" />
+		<Unit filename="funções/planetaAtual.cpp" />
+		<Unit filename="funções/position.cpp" />
+		<Unit filename="funções/printaArmazem.cpp" />
+		<Unit filename="funções/printaDinheiro.cpp" />
+		<Unit filename="funções/printaGasolina.cpp" />
+		<Unit filename="funções/printaStatus.cpp" />
+		<Unit filename="funções/reabastecer.cpp" />
+		<Unit filename="funções/rotaFoguete.cpp" />
+		<Unit filename="funções/upgrades.cpp" />
+		<Unit filename="funções/venda.cpp" />
+		<Unit filename="headers/naves.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="naves/CarD-407.cpp" />
+		<Unit filename="naves/LuCa-676.cpp" />
+		<Unit filename="naves/PeWi-774.cpp" />
+		<Unit filename="objetos/Planeta.cpp" />
+		<Unit filename="objetos/SistemaSolar.cpp" />
+		<Unit filename="objetos/TanqGasolina.cpp" />
+		<Unit filename="objetos/etBILU.cpp" />
+		<Unit filename="objetos/gameover.cpp" />
+		<Unit filename="objetos/menu.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

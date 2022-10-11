@@ -1,0 +1,17 @@
+executável em 
+
+
+N.A.U.S.E.A > bin > Debug
+
+
+Para abrir o código geral, abrir com o code blocks o arquivo 
+
+NAUSEA.cbp
+
+Os outros arquivos cpp se localizam em
+
+N.A.U.S.E.A > objetos
+
+e em
+
+N.A.U.S.E.A > funções

@@ -1,0 +1,773 @@
+# depslib dependency file v1.0
+1611518706 source:d:\hd download\first nave\main.cpp
+	"naves\naves.h"
+
+1611518557 d:\hd download\first nave\naves\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+
+1611518677 source:d:\hd download\first nave\funções\animations.cpp
+	"..\naves\naves.h"
+
+1611437552 source:d:\hd download\first nave\naves\luca-676.cpp
+	"..\naves\naves.h"
+
+1611438531 source:d:\hd download\first nave\funções\ocultar_cursor.cpp
+	"..\naves\naves.h"
+
+1611517881 source:d:\hd download\first nave\naves\pewi-774.cpp
+	"..\naves\naves.h"
+
+1611692787 source:d:\hd download\naves\funções\animations.cpp
+	"..\headers\naves.h"
+
+1611518557 d:\hd download\naves\naves\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+
+1611520795 source:d:\hd download\naves\funções\ocultar_cursor.cpp
+	"..\headers\naves.h"
+
+1611785196 source:d:\hd download\naves\naves\luca-676.cpp
+	"..\headers\naves.h"
+
+1611785250 source:d:\hd download\naves\naves\pewi-774.cpp
+	"..\headers\naves.h"
+
+1611857003 source:d:\hd download\naves\main.cpp
+	"headers\naves.h"
+
+1611785235 source:d:\hd download\naves\naves\card-407.cpp
+	"..\headers\naves.h"
+
+1611856890 d:\hd download\naves\headers\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<locale>
+
+1611521152 d:\hd download\naves\headers\symbols.h
+
+1611521477 d:\hd download\naves\headers\symbol.h
+
+1611784220 source:d:\hd download\naves\funções\position.cpp
+	"..\headers\naves.h"
+
+1611853108 source:d:\hd download\naves\funções\calculagas.cpp
+	"..\headers\naves.h"
+
+1611775886 d:\hd download\naves\headers\jogador.h
+
+1611796996 source:d:\hd download\naves\objetos\tanqgasolina.cpp
+	"../headers/naves.h"
+
+1611847155 source:d:\hd download\naves\funções\reabastecer.cpp
+	"..\headers\naves.h"
+
+1611842479 source:d:\hd download\naves\funções\pintamenu.cpp
+	"..\headers\naves.h"
+
+1611840559 source:d:\hd download\naves\funções\arquivos.cpp
+	"..\headers\naves.h"
+
+1611781972 source:d:\hd download\naves\funções\planetaatual.cpp
+	"..\headers\naves.h"
+
+1611842336 source:d:\hd download\naves\objetos\menu.cpp
+	"..\headers\naves.h"
+
+1611785821 source:d:\hd download\naves\objetos\sistemasolar.cpp
+	"..\headers\naves.h"
+
+1611778747 source:d:\hd download\naves\funções\rotafoguete.cpp
+	"..\headers\naves.h"
+
+1611781955 source:d:\hd download\naves\funções\calculadistancia.cpp
+	"..\headers\naves.h"
+
+1611791299 source:d:\hd download\naves\funções\printagasolina.cpp
+	"../headers/naves.h"
+
+1611796715 source:d:\hd download\naves\funções\printastatus.cpp
+	"../headers/naves.h"
+
+1611794518 source:d:\hd download\naves\funções\pintatudo.cpp
+	"../headers/naves.h"
+
+1611845644 source:d:\hd download\naves\funções\printadinheiro.cpp
+	"../headers/naves.h"
+
+1611850793 source:d:\hd download\naves\funções\pintaupgrades.cpp
+	"../headers/naves.h"
+
+1611856671 source:d:\hd download\naves\funções\upgrades.cpp
+	"../headers/naves.h"
+
+1611692787 source:c:\users\lauro\desktop\naves\funções\animations.cpp
+	"..\headers\naves.h"
+
+1611868282 c:\users\lauro\desktop\naves\headers\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<locale>
+
+1611868555 source:c:\users\lauro\desktop\naves\funções\arquivos.cpp
+	"..\headers\naves.h"
+
+1611781955 source:c:\users\lauro\desktop\naves\funções\calculadistancia.cpp
+	"..\headers\naves.h"
+
+1611853108 source:c:\users\lauro\desktop\naves\funções\calculagas.cpp
+	"..\headers\naves.h"
+
+1611520795 source:c:\users\lauro\desktop\naves\funções\ocultar_cursor.cpp
+	"..\headers\naves.h"
+
+1611842479 source:c:\users\lauro\desktop\naves\funções\pintamenu.cpp
+	"..\headers\naves.h"
+
+1611794518 source:c:\users\lauro\desktop\naves\funções\pintatudo.cpp
+	"../headers/naves.h"
+
+1611850793 source:c:\users\lauro\desktop\naves\funções\pintaupgrades.cpp
+	"../headers/naves.h"
+
+1611781972 source:c:\users\lauro\desktop\naves\funções\planetaatual.cpp
+	"..\headers\naves.h"
+
+1611784220 source:c:\users\lauro\desktop\naves\funções\position.cpp
+	"..\headers\naves.h"
+
+1611845644 source:c:\users\lauro\desktop\naves\funções\printadinheiro.cpp
+	"../headers/naves.h"
+
+1611791299 source:c:\users\lauro\desktop\naves\funções\printagasolina.cpp
+	"../headers/naves.h"
+
+1611796715 source:c:\users\lauro\desktop\naves\funções\printastatus.cpp
+	"../headers/naves.h"
+
+1611847155 source:c:\users\lauro\desktop\naves\funções\reabastecer.cpp
+	"..\headers\naves.h"
+
+1611778747 source:c:\users\lauro\desktop\naves\funções\rotafoguete.cpp
+	"..\headers\naves.h"
+
+1611856671 source:c:\users\lauro\desktop\naves\funções\upgrades.cpp
+	"../headers/naves.h"
+
+1611785235 source:c:\users\lauro\desktop\naves\naves\card-407.cpp
+	"..\headers\naves.h"
+
+1611785196 source:c:\users\lauro\desktop\naves\naves\luca-676.cpp
+	"..\headers\naves.h"
+
+1611785250 source:c:\users\lauro\desktop\naves\naves\pewi-774.cpp
+	"..\headers\naves.h"
+
+1611876149 source:c:\users\lauro\desktop\naves\objetos\menu.cpp
+	"..\headers\naves.h"
+
+1611866962 source:c:\users\lauro\desktop\naves\objetos\sistemasolar.cpp
+	"..\headers\naves.h"
+
+1611796996 source:c:\users\lauro\desktop\naves\objetos\tanqgasolina.cpp
+	"../headers/naves.h"
+
+1611876149 source:c:\users\lauro\desktop\naves\main.cpp
+	"headers\naves.h"
+
+1611949123 source:d:\hd download\naves.2\funções\animations.cpp
+	"..\headers\naves.h"
+
+1611978211 d:\hd download\naves.2\headers\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<locale>
+	<time.h>
+
+1611868555 source:d:\hd download\naves.2\funções\arquivos.cpp
+	"..\headers\naves.h"
+
+1611781955 source:d:\hd download\naves.2\funções\calculadistancia.cpp
+	"..\headers\naves.h"
+
+1611951063 source:d:\hd download\naves.2\funções\calculagas.cpp
+	"..\headers\naves.h"
+
+1611520795 source:d:\hd download\naves.2\funções\ocultar_cursor.cpp
+	"..\headers\naves.h"
+
+1611842479 source:d:\hd download\naves.2\funções\pintamenu.cpp
+	"..\headers\naves.h"
+
+1611948493 source:d:\hd download\naves.2\funções\pintatudo.cpp
+	"../headers/naves.h"
+
+1611850793 source:d:\hd download\naves.2\funções\pintaupgrades.cpp
+	"../headers/naves.h"
+
+1611781972 source:d:\hd download\naves.2\funções\planetaatual.cpp
+	"..\headers\naves.h"
+
+1611784220 source:d:\hd download\naves.2\funções\position.cpp
+	"..\headers\naves.h"
+
+1611845644 source:d:\hd download\naves.2\funções\printadinheiro.cpp
+	"../headers/naves.h"
+
+1611956579 source:d:\hd download\naves.2\funções\printagasolina.cpp
+	"../headers/naves.h"
+
+1611796715 source:d:\hd download\naves.2\funções\printastatus.cpp
+	"../headers/naves.h"
+
+1611977997 source:d:\hd download\naves.2\funções\reabastecer.cpp
+	"..\headers\naves.h"
+
+1611937745 source:d:\hd download\naves.2\funções\rotafoguete.cpp
+	"..\headers\naves.h"
+
+1611856671 source:d:\hd download\naves.2\funções\upgrades.cpp
+	"../headers/naves.h"
+
+1611978237 source:d:\hd download\naves.2\main.cpp
+	"headers\naves.h"
+
+1611785235 source:d:\hd download\naves.2\naves\card-407.cpp
+	"..\headers\naves.h"
+
+1611785196 source:d:\hd download\naves.2\naves\luca-676.cpp
+	"..\headers\naves.h"
+
+1611785250 source:d:\hd download\naves.2\naves\pewi-774.cpp
+	"..\headers\naves.h"
+
+1611969838 source:d:\hd download\naves.2\objetos\menu.cpp
+	"..\headers\naves.h"
+
+1611966569 source:d:\hd download\naves.2\objetos\sistemasolar.cpp
+	"..\headers\naves.h"
+
+1611796996 source:d:\hd download\naves.2\objetos\tanqgasolina.cpp
+	"../headers/naves.h"
+
+1611945618 source:d:\hd download\naves.2\objetos\planeta.cpp
+	"../headers/naves.h"
+
+1611960789 source:d:\hd download\naves.2\funções\mineracao.cpp
+	"../headers/naves.h"
+
+1611956695 source:d:\hd download\naves.2\funções\printaarmazem.cpp
+	"../headers/naves.h"
+
+1611963321 source:d:\hd download\naves.2\funções\venda.cpp
+	"../headers/naves.h"
+
+1611968983 source:d:\hd download\naves.2\objetos\gameover.cpp
+	"../headers/naves.h"
+
+1611974501 source:d:\hd download\naves.2\objetos\etbilu.cpp
+	"../headers/naves.h"
+
+1611978252 source:d:\hd download\naves.2\funções\gasrecursivo.cpp
+	"../headers/naves.h"
+
+1611949123 source:c:\users\lauro\desktop\naves.2.semifinal\funções\animations.cpp
+	"..\headers\naves.h"
+
+1612017111 c:\users\lauro\desktop\naves.2.semifinal\headers\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<locale>
+	<time.h>
+
+1611868555 source:c:\users\lauro\desktop\naves.2.semifinal\funções\arquivos.cpp
+	"..\headers\naves.h"
+
+1611781955 source:c:\users\lauro\desktop\naves.2.semifinal\funções\calculadistancia.cpp
+	"..\headers\naves.h"
+
+1611951063 source:c:\users\lauro\desktop\naves.2.semifinal\funções\calculagas.cpp
+	"..\headers\naves.h"
+
+1611978252 source:c:\users\lauro\desktop\naves.2.semifinal\funções\gasrecursivo.cpp
+	"../headers/naves.h"
+
+1611960789 source:c:\users\lauro\desktop\naves.2.semifinal\funções\mineracao.cpp
+	"../headers/naves.h"
+
+1611520795 source:c:\users\lauro\desktop\naves.2.semifinal\funções\ocultar_cursor.cpp
+	"..\headers\naves.h"
+
+1611842479 source:c:\users\lauro\desktop\naves.2.semifinal\funções\pintamenu.cpp
+	"..\headers\naves.h"
+
+1611948493 source:c:\users\lauro\desktop\naves.2.semifinal\funções\pintatudo.cpp
+	"../headers/naves.h"
+
+1611781972 source:c:\users\lauro\desktop\naves.2.semifinal\funções\planetaatual.cpp
+	"..\headers\naves.h"
+
+1611784220 source:c:\users\lauro\desktop\naves.2.semifinal\funções\position.cpp
+	"..\headers\naves.h"
+
+1611956695 source:c:\users\lauro\desktop\naves.2.semifinal\funções\printaarmazem.cpp
+	"../headers/naves.h"
+
+1611845644 source:c:\users\lauro\desktop\naves.2.semifinal\funções\printadinheiro.cpp
+	"../headers/naves.h"
+
+1611956579 source:c:\users\lauro\desktop\naves.2.semifinal\funções\printagasolina.cpp
+	"../headers/naves.h"
+
+1611796715 source:c:\users\lauro\desktop\naves.2.semifinal\funções\printastatus.cpp
+	"../headers/naves.h"
+
+1611978282 source:c:\users\lauro\desktop\naves.2.semifinal\funções\reabastecer.cpp
+	"..\headers\naves.h"
+
+1611937745 source:c:\users\lauro\desktop\naves.2.semifinal\funções\rotafoguete.cpp
+	"..\headers\naves.h"
+
+1611856671 source:c:\users\lauro\desktop\naves.2.semifinal\funções\upgrades.cpp
+	"../headers/naves.h"
+
+1611963321 source:c:\users\lauro\desktop\naves.2.semifinal\funções\venda.cpp
+	"../headers/naves.h"
+
+1612010441 source:c:\users\lauro\desktop\naves.2.semifinal\main.cpp
+	"headers\naves.h"
+
+1611785235 source:c:\users\lauro\desktop\naves.2.semifinal\naves\card-407.cpp
+	"..\headers\naves.h"
+
+1611785196 source:c:\users\lauro\desktop\naves.2.semifinal\naves\luca-676.cpp
+	"..\headers\naves.h"
+
+1611785250 source:c:\users\lauro\desktop\naves.2.semifinal\naves\pewi-774.cpp
+	"..\headers\naves.h"
+
+1612001260 source:c:\users\lauro\desktop\naves.2.semifinal\objetos\etbilu.cpp
+	"../headers/naves.h"
+
+1611968983 source:c:\users\lauro\desktop\naves.2.semifinal\objetos\gameover.cpp
+	"../headers/naves.h"
+
+1612017182 source:c:\users\lauro\desktop\naves.2.semifinal\objetos\menu.cpp
+	"..\headers\naves.h"
+
+1611945618 source:c:\users\lauro\desktop\naves.2.semifinal\objetos\planeta.cpp
+	"../headers/naves.h"
+
+1611966569 source:c:\users\lauro\desktop\naves.2.semifinal\objetos\sistemasolar.cpp
+	"..\headers\naves.h"
+
+1611796996 source:c:\users\lauro\desktop\naves.2.semifinal\objetos\tanqgasolina.cpp
+	"../headers/naves.h"
+
+1611949123 source:d:\hd download\n.a.u.s.e.a\funções\animations.cpp
+	"..\headers\naves.h"
+
+1612119028 d:\hd download\n.a.u.s.e.a\headers\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<locale>
+	<time.h>
+
+1611868555 source:d:\hd download\n.a.u.s.e.a\funções\arquivos.cpp
+	"..\headers\naves.h"
+
+1611781955 source:d:\hd download\n.a.u.s.e.a\funções\calculadistancia.cpp
+	"..\headers\naves.h"
+
+1611951063 source:d:\hd download\n.a.u.s.e.a\funções\calculagas.cpp
+	"..\headers\naves.h"
+
+1611978252 source:d:\hd download\n.a.u.s.e.a\funções\gasrecursivo.cpp
+	"../headers/naves.h"
+
+1611960789 source:d:\hd download\n.a.u.s.e.a\funções\mineracao.cpp
+	"../headers/naves.h"
+
+1611520795 source:d:\hd download\n.a.u.s.e.a\funções\ocultar_cursor.cpp
+	"..\headers\naves.h"
+
+1611842479 source:d:\hd download\n.a.u.s.e.a\funções\pintamenu.cpp
+	"..\headers\naves.h"
+
+1611948493 source:d:\hd download\n.a.u.s.e.a\funções\pintatudo.cpp
+	"../headers/naves.h"
+
+1611781972 source:d:\hd download\n.a.u.s.e.a\funções\planetaatual.cpp
+	"..\headers\naves.h"
+
+1611784220 source:d:\hd download\n.a.u.s.e.a\funções\position.cpp
+	"..\headers\naves.h"
+
+1611956695 source:d:\hd download\n.a.u.s.e.a\funções\printaarmazem.cpp
+	"../headers/naves.h"
+
+1611845644 source:d:\hd download\n.a.u.s.e.a\funções\printadinheiro.cpp
+	"../headers/naves.h"
+
+1611956579 source:d:\hd download\n.a.u.s.e.a\funções\printagasolina.cpp
+	"../headers/naves.h"
+
+1611796715 source:d:\hd download\n.a.u.s.e.a\funções\printastatus.cpp
+	"../headers/naves.h"
+
+1611978282 source:d:\hd download\n.a.u.s.e.a\funções\reabastecer.cpp
+	"..\headers\naves.h"
+
+1611937745 source:d:\hd download\n.a.u.s.e.a\funções\rotafoguete.cpp
+	"..\headers\naves.h"
+
+1611856671 source:d:\hd download\n.a.u.s.e.a\funções\upgrades.cpp
+	"../headers/naves.h"
+
+1611963321 source:d:\hd download\n.a.u.s.e.a\funções\venda.cpp
+	"../headers/naves.h"
+
+1612117677 source:d:\hd download\n.a.u.s.e.a\main.cpp
+	"headers\naves.h"
+
+1611785235 source:d:\hd download\n.a.u.s.e.a\naves\card-407.cpp
+	"..\headers\naves.h"
+
+1611785196 source:d:\hd download\n.a.u.s.e.a\naves\luca-676.cpp
+	"..\headers\naves.h"
+
+1611785250 source:d:\hd download\n.a.u.s.e.a\naves\pewi-774.cpp
+	"..\headers\naves.h"
+
+1612001260 source:d:\hd download\n.a.u.s.e.a\objetos\etbilu.cpp
+	"../headers/naves.h"
+
+1611968983 source:d:\hd download\n.a.u.s.e.a\objetos\gameover.cpp
+	"../headers/naves.h"
+
+1612017182 source:d:\hd download\n.a.u.s.e.a\objetos\menu.cpp
+	"..\headers\naves.h"
+
+1611945618 source:d:\hd download\n.a.u.s.e.a\objetos\planeta.cpp
+	"../headers/naves.h"
+
+1611966569 source:d:\hd download\n.a.u.s.e.a\objetos\sistemasolar.cpp
+	"..\headers\naves.h"
+
+1611796996 source:d:\hd download\n.a.u.s.e.a\objetos\tanqgasolina.cpp
+	"../headers/naves.h"
+
+1611949123 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\animations.cpp
+	"..\headers\naves.h"
+
+1612119028 c:\users\lauro\desktop\n.a.u.s.e.a\headers\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<locale>
+	<time.h>
+
+1611868555 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\arquivos.cpp
+	"..\headers\naves.h"
+
+1611781955 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\calculadistancia.cpp
+	"..\headers\naves.h"
+
+1611951063 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\calculagas.cpp
+	"..\headers\naves.h"
+
+1611978252 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\gasrecursivo.cpp
+	"../headers/naves.h"
+
+1611960789 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\mineracao.cpp
+	"../headers/naves.h"
+
+1611520795 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\ocultar_cursor.cpp
+	"..\headers\naves.h"
+
+1611842479 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\pintamenu.cpp
+	"..\headers\naves.h"
+
+1611948493 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\pintatudo.cpp
+	"../headers/naves.h"
+
+1611781972 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\planetaatual.cpp
+	"..\headers\naves.h"
+
+1611784220 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\position.cpp
+	"..\headers\naves.h"
+
+1611956695 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\printaarmazem.cpp
+	"../headers/naves.h"
+
+1611845644 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\printadinheiro.cpp
+	"../headers/naves.h"
+
+1611956579 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\printagasolina.cpp
+	"../headers/naves.h"
+
+1611796715 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\printastatus.cpp
+	"../headers/naves.h"
+
+1611978282 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\reabastecer.cpp
+	"..\headers\naves.h"
+
+1611937745 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\rotafoguete.cpp
+	"..\headers\naves.h"
+
+1611856671 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\upgrades.cpp
+	"../headers/naves.h"
+
+1611963321 source:c:\users\lauro\desktop\n.a.u.s.e.a\funções\venda.cpp
+	"../headers/naves.h"
+
+1611785235 source:c:\users\lauro\desktop\n.a.u.s.e.a\naves\card-407.cpp
+	"..\headers\naves.h"
+
+1611785196 source:c:\users\lauro\desktop\n.a.u.s.e.a\naves\luca-676.cpp
+	"..\headers\naves.h"
+
+1611785250 source:c:\users\lauro\desktop\n.a.u.s.e.a\naves\pewi-774.cpp
+	"..\headers\naves.h"
+
+1612001260 source:c:\users\lauro\desktop\n.a.u.s.e.a\objetos\etbilu.cpp
+	"../headers/naves.h"
+
+1611968983 source:c:\users\lauro\desktop\n.a.u.s.e.a\objetos\gameover.cpp
+	"../headers/naves.h"
+
+1611945618 source:c:\users\lauro\desktop\n.a.u.s.e.a\objetos\planeta.cpp
+	"../headers/naves.h"
+
+1611966569 source:c:\users\lauro\desktop\n.a.u.s.e.a\objetos\sistemasolar.cpp
+	"..\headers\naves.h"
+
+1611796996 source:c:\users\lauro\desktop\n.a.u.s.e.a\objetos\tanqgasolina.cpp
+	"../headers/naves.h"
+
+1612120927 source:c:\users\lauro\desktop\n.a.u.s.e.a\main.cpp
+	"headers\naves.h"
+
+1612230314 source:c:\users\lauro\desktop\n.a.u.s.e.a\objetos\menu.cpp
+	"..\headers\naves.h"
+
+1611949123 source:d:\hd download\n.a.u.s.e.a 1.0\funções\animations.cpp
+	"..\headers\naves.h"
+
+1612278239 d:\hd download\n.a.u.s.e.a 1.0\headers\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<locale>
+	<time.h>
+
+1611868555 source:d:\hd download\n.a.u.s.e.a 1.0\funções\arquivos.cpp
+	"..\headers\naves.h"
+
+1611781955 source:d:\hd download\n.a.u.s.e.a 1.0\funções\calculadistancia.cpp
+	"..\headers\naves.h"
+
+1611951063 source:d:\hd download\n.a.u.s.e.a 1.0\funções\calculagas.cpp
+	"..\headers\naves.h"
+
+1611978252 source:d:\hd download\n.a.u.s.e.a 1.0\funções\gasrecursivo.cpp
+	"../headers/naves.h"
+
+1611960789 source:d:\hd download\n.a.u.s.e.a 1.0\funções\mineracao.cpp
+	"../headers/naves.h"
+
+1611520795 source:d:\hd download\n.a.u.s.e.a 1.0\funções\ocultar_cursor.cpp
+	"..\headers\naves.h"
+
+1611842479 source:d:\hd download\n.a.u.s.e.a 1.0\funções\pintamenu.cpp
+	"..\headers\naves.h"
+
+1611948493 source:d:\hd download\n.a.u.s.e.a 1.0\funções\pintatudo.cpp
+	"../headers/naves.h"
+
+1611781972 source:d:\hd download\n.a.u.s.e.a 1.0\funções\planetaatual.cpp
+	"..\headers\naves.h"
+
+1611784220 source:d:\hd download\n.a.u.s.e.a 1.0\funções\position.cpp
+	"..\headers\naves.h"
+
+1612277944 source:d:\hd download\n.a.u.s.e.a 1.0\funções\printaarmazem.cpp
+	"../headers/naves.h"
+
+1611845644 source:d:\hd download\n.a.u.s.e.a 1.0\funções\printadinheiro.cpp
+	"../headers/naves.h"
+
+1612277808 source:d:\hd download\n.a.u.s.e.a 1.0\funções\printagasolina.cpp
+	"../headers/naves.h"
+
+1612278201 source:d:\hd download\n.a.u.s.e.a 1.0\funções\printastatus.cpp
+	"../headers/naves.h"
+
+1611978282 source:d:\hd download\n.a.u.s.e.a 1.0\funções\reabastecer.cpp
+	"..\headers\naves.h"
+
+1611937745 source:d:\hd download\n.a.u.s.e.a 1.0\funções\rotafoguete.cpp
+	"..\headers\naves.h"
+
+1611856671 source:d:\hd download\n.a.u.s.e.a 1.0\funções\upgrades.cpp
+	"../headers/naves.h"
+
+1611963321 source:d:\hd download\n.a.u.s.e.a 1.0\funções\venda.cpp
+	"../headers/naves.h"
+
+1612278256 source:d:\hd download\n.a.u.s.e.a 1.0\main.cpp
+	"headers\naves.h"
+
+1611785235 source:d:\hd download\n.a.u.s.e.a 1.0\naves\card-407.cpp
+	"..\headers\naves.h"
+
+1611785196 source:d:\hd download\n.a.u.s.e.a 1.0\naves\luca-676.cpp
+	"..\headers\naves.h"
+
+1611785250 source:d:\hd download\n.a.u.s.e.a 1.0\naves\pewi-774.cpp
+	"..\headers\naves.h"
+
+1612001260 source:d:\hd download\n.a.u.s.e.a 1.0\objetos\etbilu.cpp
+	"../headers/naves.h"
+
+1611968983 source:d:\hd download\n.a.u.s.e.a 1.0\objetos\gameover.cpp
+	"../headers/naves.h"
+
+1612230314 source:d:\hd download\n.a.u.s.e.a 1.0\objetos\menu.cpp
+	"..\headers\naves.h"
+
+1611945618 source:d:\hd download\n.a.u.s.e.a 1.0\objetos\planeta.cpp
+	"../headers/naves.h"
+
+1611966569 source:d:\hd download\n.a.u.s.e.a 1.0\objetos\sistemasolar.cpp
+	"..\headers\naves.h"
+
+1611796996 source:d:\hd download\n.a.u.s.e.a 1.0\objetos\tanqgasolina.cpp
+	"../headers/naves.h"
+
+1611949123 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\animations.cpp
+	"..\headers\naves.h"
+
+1612278239 e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\headers\naves.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<locale>
+	<time.h>
+
+1611868555 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\arquivos.cpp
+	"..\headers\naves.h"
+
+1611781955 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\calculadistancia.cpp
+	"..\headers\naves.h"
+
+1611951063 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\calculagas.cpp
+	"..\headers\naves.h"
+
+1611978252 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\gasrecursivo.cpp
+	"../headers/naves.h"
+
+1611960789 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\mineracao.cpp
+	"../headers/naves.h"
+
+1611520795 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\ocultar_cursor.cpp
+	"..\headers\naves.h"
+
+1611842479 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\pintamenu.cpp
+	"..\headers\naves.h"
+
+1611948493 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\pintatudo.cpp
+	"../headers/naves.h"
+
+1611781972 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\planetaatual.cpp
+	"..\headers\naves.h"
+
+1611784220 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\position.cpp
+	"..\headers\naves.h"
+
+1612277944 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\printaarmazem.cpp
+	"../headers/naves.h"
+
+1611845644 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\printadinheiro.cpp
+	"../headers/naves.h"
+
+1612277808 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\printagasolina.cpp
+	"../headers/naves.h"
+
+1612278201 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\printastatus.cpp
+	"../headers/naves.h"
+
+1611978282 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\reabastecer.cpp
+	"..\headers\naves.h"
+
+1611937745 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\rotafoguete.cpp
+	"..\headers\naves.h"
+
+1611856671 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\upgrades.cpp
+	"../headers/naves.h"
+
+1611963321 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\funções\venda.cpp
+	"../headers/naves.h"
+
+1612278256 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\main.cpp
+	"headers\naves.h"
+
+1611785235 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\naves\card-407.cpp
+	"..\headers\naves.h"
+
+1611785196 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\naves\luca-676.cpp
+	"..\headers\naves.h"
+
+1611785250 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\naves\pewi-774.cpp
+	"..\headers\naves.h"
+
+1612001260 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\objetos\etbilu.cpp
+	"../headers/naves.h"
+
+1611968983 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\objetos\gameover.cpp
+	"../headers/naves.h"
+
+1612230314 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\objetos\menu.cpp
+	"..\headers\naves.h"
+
+1611945618 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\objetos\planeta.cpp
+	"../headers/naves.h"
+
+1611966569 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\objetos\sistemasolar.cpp
+	"..\headers\naves.h"
+
+1611796996 source:e:\downloads(hd)\facul\n.a.u.s.e.a 1.0\objetos\tanqgasolina.cpp
+	"../headers/naves.h"
+
